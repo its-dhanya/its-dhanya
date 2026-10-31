@@ -20,13 +20,6 @@
 - 📚 **Amazon ML Summer School**: Top 3,000 of 60,000+ applicants
 - 📫 Reach me at **dhanyavenkatesh2k26@gmail.com**
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-dhanya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-dhanya&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="160" alt="Top languages" />
-</div>
-
 ### 🛠 Languages and tools
 
 <p align="left">
