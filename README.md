@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://dhanyasportfolio.vercel.app/"><b>🌐 View my portfolio</b></a>
+</p>
+
+<p align="center">
   I build ML and backend systems: LLM and NLP pipelines, retrieval, and the services around them.
 </p>
 
